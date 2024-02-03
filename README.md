@@ -6,4 +6,6 @@
 
 Weather forecast: Hurricane conditions.
 
+![](https://raw.githubusercontent.com/opengeos/leafmap/master/docs/assets/logo_rect.png)
+
 ![](https://i.gifer.com/embedded/download/4dh.gif)
