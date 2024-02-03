@@ -2,7 +2,7 @@
 
 # Personal Website
 
-## Robert M., Naples, Florida, USA, Earth
+## Robert M., Naples, Collier County, Florida, USA, Earth
 
 Weather forecast: Hurricane conditions.
 
